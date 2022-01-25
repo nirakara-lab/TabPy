@@ -79,6 +79,7 @@ def setup_package():
             "nltk",
             "numpy",
             "pandas",
+            "pingouin",
             "pyopenssl",
             "pytest",
             "pytest-cov",
